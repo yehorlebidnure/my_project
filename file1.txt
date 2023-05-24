@@ -1,6 +1,3 @@
 Hello World from file 1!
 The second change.
-The third change.
-The fourth change.
-The last fifth change.
-Very important change!
+Updated by fix2.
